@@ -2,7 +2,7 @@
 
 A decision-support Power BI dashboard designed to evaluate A/B test performance by analyzing conversion behavior, uplift impact, and statistical significance to guide product rollout decisions.
 
-***Link Dashboared View *** https://app.powerbi.com/links/Z2xsAFPXET?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare
+***Link Dashboared View*** https://app.powerbi.com/links/Z2xsAFPXET?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare
 
 <img width="1289" height="717" alt="Experiment Performance Dashboard" src="https://github.com/user-attachments/assets/205c4d9c-6c8c-4a8a-8a63-fc39525dfb45" />
 
