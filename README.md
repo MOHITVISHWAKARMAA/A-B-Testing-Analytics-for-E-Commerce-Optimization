@@ -118,6 +118,8 @@ This ensures the result is not due to random variance.
 6️⃣ Dashboard Structure
 Executive KPI Section
 
+**Link** https://app.powerbi.com/links/Z2xsAFPXET?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare
+
 Total Sessions
 
 Total Orders
